@@ -1,0 +1,5 @@
+#ignore below listed folder/files
+node_modules
+logs
+public
+src
