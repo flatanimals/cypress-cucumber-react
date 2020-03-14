@@ -32,5 +32,8 @@ Example:
 $ docker run -p 8080:3100 cy1:v1
 ```
 
-Run cypress through docker in cli mode no need to install cypress npm module (remove / before $PWD)
+Run cypress through docker in cli mode no need to install cypress npm module (remove / before \$PWD)
+
+```
 docker run -it -v \$PWD:/e2e -w /e2e cypress/included:4.1.0
+```
