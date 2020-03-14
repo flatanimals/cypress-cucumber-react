@@ -1,2 +1,6 @@
-# cypress
-cypress setup with cucumber and deployment through docker
+Cypress with cucumber
+
+npm run start
+
+To run cypress test
+npm run cy
